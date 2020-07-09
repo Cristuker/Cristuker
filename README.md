@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello World 👋
 
-<!--
-**Cristuker/Cristuker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer.
 
-Here are some ideas to get you started:
+- 🏢 I'm currently **looking for jobs**
+- ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.jsx`,
+- 🌍 I'm mostly active within the **JavaScript Community**
+- 🌱 Learning all about **Open Source/JS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me: 
+
+- <a href="https://twitter.com/tukeer01" target="blank" >Twitter</a>
+- <a href="https://www.linkedin.com/in/cristian-silva-dev/" target="blank" >LinkedIn</a>
+- <a href="http://cristuker.github.io/" target="blank" >MyPortifolio</a>
+
+
+## Depoimentos(sdds orkut)
