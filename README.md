@@ -12,6 +12,3 @@
 - <a href="https://twitter.com/tukeer01" target="blank" >Twitter</a>
 - <a href="https://www.linkedin.com/in/cristian-silva-dev/" target="blank" >LinkedIn</a>
 - <a href="http://cristuker.github.io/" target="blank" >MyPortifolio</a>
-
-
-## Depoimentos(sdds orkut)
