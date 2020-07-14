@@ -2,6 +2,8 @@
 
 #### I'm a Full-Stack Developer.
 
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/Cristuker/my-stack)
+
 - 🏢 I'm currently **looking for jobs**
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.jsx`,
 - 🌍 I'm mostly active within the **JavaScript Community**
