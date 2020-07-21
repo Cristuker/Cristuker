@@ -13,4 +13,4 @@
 - <a href="https://www.linkedin.com/in/cristian-silva-dev/" target="blank" >LinkedIn</a>
 - <a href="http://cristuker.github.io/" target="blank" >My Portifolio</a>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cristuker&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cristuker&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
