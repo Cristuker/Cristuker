@@ -12,5 +12,6 @@
 - <a href="https://twitter.com/tukeer01" target="blank" >Twitter</a>
 - <a href="https://www.linkedin.com/in/cristian-silva-dev/" target="blank" >LinkedIn</a>
 - <a href="http://cristuker.github.io/" target="blank" >My Portifolio</a>
+- <a href="https://stackshare.io/Cristuker/my-stack" target="blank" >My StackShare</a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cristuker&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
