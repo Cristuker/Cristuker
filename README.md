@@ -1,5 +1,7 @@
 ### Hello World 👋
 
+![Visitors](https://komarev.com/ghpvc/?username=cristuker&style=flat-square&color=blueviolet&label=Visitors)
+
 #### I'm a Full-Stack Developer.
 
 -   🏢 I'm currently **looking for jobs**
@@ -13,3 +15,4 @@
 -   <a href="https://www.linkedin.com/in/cristian-silva-dev/" target="blank" >LinkedIn</a>
 -   <a href="http://cristuker.github.io/" target="blank" >My Portifolio</a>
 -   <a href="https://stackshare.io/Cristuker/my-stack" target="blank" >My StackShare</a>
+-   <a href="https://app.rocketseat.com.br/me/cristuker" target="blank" >Rocketseat profile</a>
