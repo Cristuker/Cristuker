@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-![Visitors](https://komarev.com/ghpvc/?username=cristuker&style=flat-square&color=blueviolet&label=Visitors)
+![Visitors](https://komarev.com/ghpvc/?username=cristuker&color=blueviolet&label=Visitors)
 
 #### I'm a Full-Stack Developer.
 
@@ -16,3 +16,5 @@
 -   <a href="http://cristuker.github.io/" target="blank" >My Portifolio</a>
 -   <a href="https://stackshare.io/Cristuker/my-stack" target="blank" >My StackShare</a>
 -   <a href="https://app.rocketseat.com.br/me/cristuker" target="blank" >Rocketseat profile</a>
+
+[![Spotify](https://novatorem.cristuker.vercel.app/api/spotify.py)](https://open.spotify.com/user/cristian123105)
