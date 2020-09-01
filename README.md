@@ -2,19 +2,28 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=cristuker&color=blueviolet&label=Visitors)
 
+<div>
+
+<a href="https://linkedin.com/in/cristian-silva-dev"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+<a href="https://app.rocketseat.com.br/me/cristuker"><img alt="Rocketseat" title="Rocketseat" height="32" width="32" src="./assets/icons/rocketseat_icon.jpg"></a>
+<a href="http://cristuker.github.io/"><img alt="man technologist" title="Portifólio" height="32" width="32" src="./assets/icons/tech-guy.jpeg"></a>
+<a href="https://stackshare.io/Cristuker/my-stack"><img alt="Stackshare" title="My stackshare" height="32" width="32" src="./assets/icons/stack.png"></a>
+<a href="https://facebook.com/peterthehan"><img alt="Facebook" title="Facebook" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"></a>
+<a href="https://open.spotify.com/user/cristian123105"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
+<a href="https://twitter.com/tukeer01"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
+<a href="https://steamcommunity.com/id/kriz1100"><img alt="Steam" title="Steam" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg"></a>
+
+</div>
+
 #### I'm a Full-Stack Developer.
 
--   🏢 I'm currently **looking for jobs**
--   ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.jsx`,
--   🌍 I'm mostly active within the **JavaScript Community**
--   🌱 Learning all about **Open Source/JS **
-
-## 📫 How to reach me:
-
--   <a href="https://twitter.com/tukeer01" target="blank" >Twitter</a>
--   <a href="https://www.linkedin.com/in/cristian-silva-dev/" target="blank" >LinkedIn</a>
--   <a href="http://cristuker.github.io/" target="blank" >My Portifolio</a>
--   <a href="https://stackshare.io/Cristuker/my-stack" target="blank" >My StackShare</a>
--   <a href="https://app.rocketseat.com.br/me/cristuker" target="blank" >Rocketseat profile</a>
+<p align="left" >
+I currently work with JavaScript. I am studying Typescript and TDD, searching for clean and well done code. Always try to contribute to open source and I also like to meet other techs
+</p>
+<div style="display:flex; align-items: center;">
 
 [![Spotify](https://novatorem.cristuker.vercel.app/api/spotify.py)](https://open.spotify.com/user/cristian123105)
+
+<img src="./assets/programming.gif" height="350" width="400">
+
+</div>
