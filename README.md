@@ -23,7 +23,7 @@ I currently work with JavaScript. I am studying Typescript and TDD, searching fo
 <div style="display:flex; align-items: center;">
 
 <a href="https://open.spotify.com/user/cristian123105" target="blank" >
-<img src="https://novatorem.cristuker.vercel.app/api/spotify.py" href="">
+<img src="https://novatorem.cristuker.vercel.app/api/spotify.py" style="max-width: 50%;>
 </a>
 <img src="https://raw.githubusercontent.com/Cristuker/Cristuker/master/assets/programming.gif" height="350" width="400">
 
