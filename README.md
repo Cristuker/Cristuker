@@ -22,8 +22,9 @@ I currently work with JavaScript. I am studying Typescript and TDD, searching fo
 </p>
 <div style="display:flex; align-items: center;">
 
-[![Spotify](https://novatorem.cristuker.vercel.app/api/spotify.py)](https://open.spotify.com/user/cristian123105)
-
+<a href="https://open.spotify.com/user/cristian123105" target="blank" >
+<img src="https://novatorem.cristuker.vercel.app/api/spotify.py" href="">
+</a>
 <img src="https://raw.githubusercontent.com/Cristuker/Cristuker/master/assets/programming.gif" height="350" width="400">
 
 </div>
