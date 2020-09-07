@@ -17,17 +17,6 @@
 <br/>
 I currently work with JavaScript. I am studying Typescript and TDD, searching for clean and well done code. Always try to contribute to open source and I also like to meet other techs
 <br/><br/>
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-      
-<a href="https://open.spotify.com/user/cristian123105" target="blank" >
-<img src="https://novatorem.cristuker.vercel.app/api/spotify.py" >
-</a>
-
-  </td>
-  <td width="50%">
+<p align="center">
 <img src="https://raw.githubusercontent.com/Cristuker/Cristuker/master/assets/programming.gif" style="margin:0;" height="350" width="400">
-
-  </td>
-  </table>
+</p>
