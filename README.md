@@ -8,7 +8,7 @@
 My name is Cristian i'm a Full Stack developer since 2019. I love Javascript and learn new things. I always trying to do an organized and clean code.
 </p>
 <img width="300px" 
-height="200px" style="margin: 15px;"
+height="200px" style="margin: 15px; float: right;"
 src="./assets/icons/coding.gif">
 
 </div>
