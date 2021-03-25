@@ -2,6 +2,19 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=cristuker&color=blueviolet&label=Visitors)
 
+<div style="display: flex;">
+
+<p style="width: 50%;">
+My name is Cristian i'm a Full Stack developer since 2019. I love Javascript and learn new things. I always trying to do an organized and clean code.
+</p>
+<img width="300px" 
+height="200px" style="margin: 15px;"
+src="./assets/icons/coding.gif">
+
+</div>
+
+### Find me  👇
+
 <div style="display:flex; align-items: center; ">
 
 <br/>
@@ -15,8 +28,16 @@
 
 </div>
 <br/>
-I currently work with JavaScript. I am studying Typescript and TDD, searching for clean and well done code. Always try to contribute to open source and I also like to meet other techs
-<br/><br/>
+
+### More about me
+🧘 I currently work with JavaScript and TDD.<br/>
+🎮 I love play video-games, music and meet new things.<br/>
+🔫 My best rank on CS:GO was Supreme Master First Class <img alt="Steam" title="Steam" height="17" width="40" src="./assets/icons/supremo.jpg"><br/>
+🐞 Singing while code scares away bugs<br/>
+🧘 I love incense
+
+<!-- <br/><br/>
 <p align="center">
 <img src="https://raw.githubusercontent.com/Cristuker/Cristuker/master/assets/programming.gif" style="margin:0;" height="350" width="400">
-</p>
+</p> -->
+
