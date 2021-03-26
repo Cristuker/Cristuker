@@ -31,8 +31,8 @@ My name is Cristian i'm a Full Stack developer since 2019. I love Javascript and
 🐞 Singing while code scares away bugs<br/>
 🧘 I love incense
 
-<img width="300px" 
-height="200px" style="margin: 15px;"
+<img width="200px" 
+height="100px" style="margin: 15px;"
 src="./assets/icons/coding.gif">
 </div>
 
