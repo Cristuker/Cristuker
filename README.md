@@ -32,12 +32,12 @@ My name is Cristian i'm a Full Stack developer since 2019. I love Javascript and
   🔫 My best rank on CS:GO was Supreme Master First Class <img alt="Steam" title="Steam" height="17" width="40" src="./assets/icons/supremo.jpg"><br/>
   🐞 Singing while code scares away bugs<br/>
   🧘 I love incense
-
-  </p>
-
-  <img width="250px" 
+ <img width="250px" 
   height="200px" style="margin: 15px;"
   src="./assets/icons/coding.gif">
+  </p>
+
+ 
 </div>
 
 
