@@ -24,7 +24,7 @@ My name is Cristian i'm a Full Stack developer since 2019. I love Javascript and
 
 <div style="display:flex; flex-direction: row; ">
 
-  <div>
+  <div style="width: 50%">
 
   ### More about me
   🧘 I currently work with JavaScript and TDD.<br/>
