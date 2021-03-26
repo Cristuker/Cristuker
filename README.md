@@ -35,7 +35,7 @@ My name is Cristian i'm a Full Stack developer since 2019. I love Javascript and
 
   </div>
 
-  <img width="300px" 
+  <img width="250px" 
   height="200px" style="margin: 15px;"
   src="./assets/icons/coding.gif">
 </div>
