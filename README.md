@@ -23,17 +23,21 @@ My name is Cristian i'm a Full Stack developer since 2019. I love Javascript and
 <br/>
 
 <div style="display:flex; flex-direction: row; ">
-  
-### More about me
-🧘 I currently work with JavaScript and TDD.<br/>
-🎮 I love play video-games, music and meet new things.<br/>
-🔫 My best rank on CS:GO was Supreme Master First Class <img alt="Steam" title="Steam" height="17" width="40" src="./assets/icons/supremo.jpg"><br/>
-🐞 Singing while code scares away bugs<br/>
-🧘 I love incense
 
-<img width="200px" 
-height="100px" style="margin: 15px;"
-src="./assets/icons/coding.gif">
+  <div>
+
+  ### More about me
+  🧘 I currently work with JavaScript and TDD.<br/>
+  🎮 I love play video-games, music and meet new things.<br/>
+  🔫 My best rank on CS:GO was Supreme Master First Class <img alt="Steam" title="Steam" height="17" width="40" src="./assets/icons/supremo.jpg"><br/>
+  🐞 Singing while code scares away bugs<br/>
+  🧘 I love incense
+
+  </div>
+
+  <img width="300px" 
+  height="200px" style="margin: 15px;"
+  src="./assets/icons/coding.gif">
 </div>
 
 
