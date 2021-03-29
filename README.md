@@ -37,10 +37,8 @@
   🧘 I love incense
 </p>
 
-  <img width="50%" align="right"
+  <img width="25%" align="right"
   src="./assets/icons/coding.gif">
-
-
 
 </div>
 
