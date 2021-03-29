@@ -28,7 +28,7 @@
 
 <div style="display:flex; flex-direction: row; ">
 
-<p>
+<p align="left">
 
   🧘 I currently work with JavaScript and TDD.<br/>
   🎮 I love play video-games, music and meet new things.<br/>
@@ -36,11 +36,10 @@
   🐞 Singing while code scares away bugs<br/>
   🧘 I love incense
 </p>
-<div style="height: 100%;" >
-  <img width="250px" 
-  height="200px" style="margin: 15px;"
+
+  <img width="50%" align="right"
   src="./assets/icons/coding.gif">
-</div>
+
 
 
 </div>
