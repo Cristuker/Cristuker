@@ -26,10 +26,9 @@
 
 ### More about me
 
-<div style="display:flex; flex-direction: row; ">
+
 
 <p align="left">
-
   🧘 I currently work with JavaScript and TDD.<br/>
   🎮 I love play video-games, music and meet new things.<br/>
   🔫 My best rank on CS:GO was Supreme Master First Class <img alt="Steam" title="Steam" height="17" width="40" src="./assets/icons/supremo.jpg"><br/>
@@ -40,7 +39,7 @@
   <img width="25%" align="right"
   src="./assets/icons/coding.gif">
 
-</div>
+
 
 
 
