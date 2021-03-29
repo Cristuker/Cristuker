@@ -24,9 +24,9 @@
 
 <br/>
 
+  <img width="25%" align="right"
+  src="./assets/icons/coding.gif">
 ### More about me
-
-
 
 <p align="left">
   🧘 I currently work with JavaScript and TDD.<br/>
@@ -35,14 +35,6 @@
   🐞 Singing while code scares away bugs<br/>
   🧘 I love incense
 </p>
-
-  <img width="25%" align="right"
-  src="./assets/icons/coding.gif">
-
-
-
-
-
 
 
 <!-- <br/><br/>
