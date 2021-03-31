@@ -5,7 +5,7 @@
 <div style="display: flex;">
 
   <p style="width: 50%;">
-  My name is Cristian i'm a Full Stack developer since 2019. I love Javascript and learn new things. I always trying to do an organized and clean code.
+  My name is Cristian i'm a Full Stack developer since 2018. I love Javascript and learn new things. I always trying to do an organized and clean code.
   </p>
 
 </div>
