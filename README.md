@@ -12,8 +12,6 @@
 
 ### Find me  👇
 
-<br/>
-
 <a href="https://linkedin.com/in/cristian-silva-dev"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>&nbsp;
 <a href="https://app.rocketseat.com.br/me/cristuker"><img alt="Rocketseat" title="Rocketseat" height="32" width="32" src="https://raw.githubusercontent.com/Cristuker/Cristuker/master/assets/icons/rocketseat_icon.jpg"></a>&nbsp;
 <a href="http://cristuker.github.io/"><img alt="man technologist" title="Portifólio" height="32" width="32" src="https://raw.githubusercontent.com/Cristuker/Cristuker/master/assets/icons/tech-guy.jpeg"></a>&nbsp;
@@ -21,8 +19,6 @@
 <a href="https://open.spotify.com/user/cristian123105"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>&nbsp;
 <a href="https://twitter.com/tukeer01"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>&nbsp;
 <a href="https://steamcommunity.com/id/kriz1100"><img alt="Steam" title="Steam" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg"></a>
-
-<br/>
 
   <img width="25%" align="right"
   src="./assets/icons/coding.gif">
