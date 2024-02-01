@@ -19,6 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [#DEVResolutions2024](https://dev.to/cristuker/devresolutions2024-df1)
+- [Amazon Web Services Basics: What is EC2](https://dev.to/cristuker/amazon-web-services-basics-what-is-ec2-3aa2)
+- [Amazon S3 Basics: What You Need to Know](https://dev.to/cristuker/amazon-s3-basics-what-you-need-to-know-23em)
+- [O que é JSDoc](https://dev.to/cristuker/o-que-e-jsdoc-fdc)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
