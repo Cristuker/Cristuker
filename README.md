@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Um pouco sobre Arquitetura Hexagonal](https://dev.to/cristuker/um-pouco-sobre-arquitetura-hexagonal-4kg0)
 - [Como e por que usar GraphQL?](https://dev.to/cristuker/como-e-porque-usar-graphql-d90)
 - [#DEVResolutions2024](https://dev.to/cristuker/devresolutions2024-df1)
 - [Amazon Web Services Basics: What is EC2](https://dev.to/cristuker/amazon-web-services-basics-what-is-ec2-3aa2)
-- [Amazon S3 Basics: What You Need to Know](https://dev.to/cristuker/amazon-s3-basics-what-you-need-to-know-23em)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
