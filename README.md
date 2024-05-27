@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [O que é strict mode no JavaScript?](https://dev.to/cristuker/o-que-e-strict-mode-no-javascript-16cb)
 - [Um pouco sobre Arquitetura Hexagonal](https://dev.to/cristuker/um-pouco-sobre-arquitetura-hexagonal-4kg0)
 - [Como e por que usar GraphQL?](https://dev.to/cristuker/como-e-porque-usar-graphql-d90)
 - [#DEVResolutions2024](https://dev.to/cristuker/devresolutions2024-df1)
-- [Amazon Web Services Basics: What is EC2](https://dev.to/cristuker/amazon-web-services-basics-what-is-ec2-3aa2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
