@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript: O que é Symbol?](https://dev.to/cristuker/javascript-o-que-e-symbol-38l0)
 - [O que é strict mode no JavaScript?](https://dev.to/cristuker/o-que-e-strict-mode-no-javascript-16cb)
 - [Um pouco sobre Arquitetura Hexagonal](https://dev.to/cristuker/um-pouco-sobre-arquitetura-hexagonal-4kg0)
 - [Como e por que usar GraphQL?](https://dev.to/cristuker/como-e-porque-usar-graphql-d90)
-- [#DEVResolutions2024](https://dev.to/cristuker/devresolutions2024-df1)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
