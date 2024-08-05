@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [[Arquitetura] Uma breve introdução a microsserviços](https://dev.to/cristuker/arquitetura-uma-breve-introducao-a-microsservicos-4alj)
 - [JavaScript: Alterando a prioridade de execução](https://dev.to/cristuker/javascript-alterando-a-prioridade-de-execucao-472p)
 - [JavaScript: Interceptando objetos com Proxy](https://dev.to/cristuker/javascript-interceptando-objetos-com-proxy-17bm)
 - [JavaScript: Trabalhando com Set](https://dev.to/cristuker/javascript-trabalhando-com-set-1k9b)
-- [JavaScript: O que é Symbol?](https://dev.to/cristuker/javascript-o-que-e-symbol-38l0)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
