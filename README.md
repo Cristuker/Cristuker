@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Node.JS, JavaScript, TypeScript, React, NestJS, Microservices...**
 
-- 📫 How to reach me **cristian123105@gmail.com**
-
 - 📄 Know about my experiences [cristiansilva.dev/sobre](cristiansilva.dev/sobre)
 
 - ⚡ Fun fact **I love play video-games**
