@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Amazon Web Service, Microservices, NestJS**
 
-- 👨‍💻 All of my projects are available at [cristiansilva.dev](cristiansilva.dev)
+- 👨‍💻 All of my projects are available at [cristiansilva.dev](https://www.cristiansilva.dev)
 
-- 📝 I regularly write articles on [dev.to/cristuker](dev.to/cristuker)
+- 📝 I regularly write articles on [dev.to/cristuker](https://www.dev.to/cristuker)
 
 - 💬 Ask me about **Node.JS, JavaScript, TypeScript, React, NestJS, Microservices...**
 
-- 📄 Know about my experiences [cristiansilva.dev/sobre](cristiansilva.dev/sobre)
+- 📄 Know about my experiences [cristiansilva.dev/sobre](https://www.cristiansilva.dev/sobre)
 
 - ⚡ Fun fact **I love play video-games**
 
