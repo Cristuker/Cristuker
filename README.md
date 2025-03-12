@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Desvendando SQL: Functions](https://dev.to/cristuker/desvendando-sql-functions-26c3)
 - [Desvendando SQL: Trigger](https://dev.to/cristuker/desvendando-sql-trigger-f32)
 - [[Design Patterns] Trabalhando com Factories](https://dev.to/cristuker/design-patterns-trabalhando-com-factories-51hi)
 - [Uma breve introdução a microsserviços](https://dev.to/cristuker/arquitetura-uma-breve-introducao-a-microsservicos-4alj)
-- [JavaScript: Alterando a prioridade de execução](https://dev.to/cristuker/javascript-alterando-a-prioridade-de-execucao-472p)
 <!-- BLOG-POST-LIST:END -->
 
 
