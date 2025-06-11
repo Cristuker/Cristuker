@@ -62,10 +62,10 @@ I’ve worked across consultancies and SaaS products, which taught me not only h
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [O que é CQRS](https://dev.to/cristuker/o-que-e-cqrs-19jd)
 - [Desvendando SQL: Procedures](https://dev.to/cristuker/desvendando-sql-procedures-1nbl)
 - [Desvendando SQL: Views](https://dev.to/cristuker/desvendando-sql-views-4f34)
 - [Desvendando SQL: Functions](https://dev.to/cristuker/desvendando-sql-functions-26c3)
-- [Desvendando SQL: Trigger](https://dev.to/cristuker/desvendando-sql-trigger-f32)
 <!-- BLOG-POST-LIST:END -->
 
 ---
