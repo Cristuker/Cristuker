@@ -1,52 +1,53 @@
 <h1 align="center">👋 Hi, I'm Cristian Magalhães</h1>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/Node.js-%23333?style=for-the-badge&logo=node.js&logoColor=00ffff" />
-  <img src="https://img.shields.io/badge/React%20%7C%20Angular-%23333?style=for-the-badge&logo=react&logoColor=00ffff" />
+  <img src="https://img.shields.io/badge/Node.js-%23333?style=for-the-badge&logo=node.js&logoColor=00ffff" />
+  <img src="https://img.shields.io/badge/TypeScript-%23333?style=for-the-badge&logo=typescript&logoColor=00ffff" />
+  <img src="https://img.shields.io/badge/React%20%7C%20Next.js-%23333?style=for-the-badge&logo=react&logoColor=00ffff" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23333?style=for-the-badge&logo=postgresql&logoColor=00ffff" />
+  <img src="https://img.shields.io/badge/RabbitMQ-%23333?style=for-the-badge&logo=rabbitmq&logoColor=00ffff" />
 </p>
 
 ---
 
 ### 🎯 About Me
 
-I'm a Software Engineer with over 5 years of experience, passionate about building scalable, maintainable, and user-focused applications using the JavaScript ecosystem.
+I'm a Senior Software Engineer with over 6 years of experience building scalable backend systems and full-stack applications using the JavaScript/TypeScript ecosystem.
 
-My main stack includes **Node.js** on the backend and **React/Angular** on the frontend. I’m a strong advocate of **Test-Driven Development (TDD)** and enjoy applying it in real-world scenarios to ensure reliability and confidence in code. I value **Clean Code** principles and believe that readable, well-structured code leads to better collaboration and long-term success.
+My core stack is **Node.js** and **TypeScript** on the backend — APIs, microservices, event-driven architecture, distributed systems. On the frontend I work with **React** and **Next.js**. I'm a strong advocate of **Test-Driven Development (TDD)** and apply it as a central quality practice across everything I ship. I care deeply about **Clean Code**, **Hexagonal Architecture**, and software that's built to last.
 
-I’ve worked across consultancies and SaaS products, which taught me not only how to deliver high-quality software — but also what pitfalls to avoid. My current focus is on scalable backend architecture, fullstack development with JavaScript, and clean, testable code.
+I've worked in high-scale production environments, led squads as Tech Lead, and shipped everything from Open Finance consent systems to internal enterprise tooling. I believe good engineering is collaborative, autonomous, and always grounded in real business impact.
 
 ---
 
 ### 🚀 Currently focused on
 
-- Deepening my knowledge of **software architecture** for scalable applications  
-- Studying to become a **Node.js specialist**, mastering its internals and ecosystem  
-- Expanding my skills in **Cloud** and **DevOps** practices to deliver more robust and reliable systems  
-
+- Building and evolving **microservices** in high-scale production environments  
+- Deepening expertise in **distributed systems** and **event-driven architecture**  
+- **Cloud observability** and DevOps practices for reliable, monitored systems  
 
 ---
 
 ### 🧰 Main Technologies
 
-* ⚙️ Node.js / NestJS / Spring Boot
-* ⚛️ React / Angular
-* 🛢 PostgreSQL / MongoDB / MySQL
-* 🧪 Jest / Jasmine / Testing Library / JUnit
-* 📦 Docker / Git / CI-CD
-* 🧠 TypeScript / JavaScript / Java
+* ⚙️ Node.js / NestJS / TypeScript / Go
+* ⚛️ React / Next.js / Angular
+* 🛢 PostgreSQL / MongoDB / MySQL / Oracle
+* 📨 RabbitMQ / Docker / ArgoCD / CI/CD
+* 🧪 Jest / JUnit / React Testing Library / TDD
+* ☕ Java / Spring Boot
 
 ---
 
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 ---
@@ -58,7 +59,6 @@ I’ve worked across consultancies and SaaS products, which taught me not only h
 * ✉️ [cristian123105@gmail.com](mailto:cristian123105@gmail.com)
 
 ---
-
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
