@@ -54,7 +54,7 @@ I’ve worked across consultancies and SaaS products, which taught me not only h
 ### 🌐 Let's Connect
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/cristian-silva-dev/)
-* 🌍 [Personal Site](https://cristiansilva.dev)
+* 🌍 [Personal Site](https://cristianm.dev/)
 * ✉️ [cristian123105@gmail.com](mailto:cristian123105@gmail.com)
 
 ---
