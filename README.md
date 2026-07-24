@@ -62,10 +62,10 @@ I've worked in high-scale production environments, led squads as Tech Lead, and 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Começando com Redes: Camadas de uma conexão TCP/IP](https://dev.to/he4rt/comecando-com-redes-camadas-de-uma-conexao-tcpip-1bjn)
 - [O que é CQRS?](https://dev.to/cristuker/o-que-e-cqrs-19jd)
 - [Desvendando SQL: Procedures](https://dev.to/cristuker/desvendando-sql-procedures-1nbl)
 - [Desvendando SQL: Views](https://dev.to/cristuker/desvendando-sql-views-4f34)
-- [Desvendando SQL: Functions](https://dev.to/cristuker/desvendando-sql-functions-26c3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
